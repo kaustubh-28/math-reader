@@ -1,12 +1,3 @@
-# MathReader: API for handwritten mathematical expressions recognition
-
-### Paper: [MathReader: API for handwritten mathematical expressions recognition](https://ieeexplore.ieee.org/document/9288272), published in [2020 IEEE 32nd International Conference on Tools with Artificial Intelligence (ICTAI)](https://ieeexplore.ieee.org/xpl/conhome/9288160/proceeding)
-
-Details about implementation are described in the paper.
-
-------------
-
-
 ### Interface for validation:
 
 
