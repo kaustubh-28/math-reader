@@ -1,0 +1,7 @@
+==========================================================
+MathReader
+==========================================================
+API for handwritten mathematical expressions recognition
+---------------------------------------------------------
+
+GitHub `MathReader <https://github.com/kaustubh-28/math-reader>`_.
